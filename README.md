@@ -1,3 +1,5 @@
+UN PROGETTO A CURA DI SCOPELLITI GIORGIA E CIUNA LUCA 
+
 Il progetto ha l’obiettivo di realizzare un’analisi automatica di un segnale elettrocardiografico 
 reale, attraverso una sequenza di elaborazioni finalizzate all’individuazione dei complessi QRS, alla 
 localizzazione dei picchi R e alla successiva valutazione della frequenza cardiaca. 
